@@ -4,3 +4,6 @@
 [submodule "objectivity"]
 	path = objectivity
 	url = https://github.com/iepathos/marlowe_objectivity.git
+[submodule "chrome"]
+	path = chrome
+	url = https://github.com/iepathos/marlowe_chrome.git
