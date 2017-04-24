@@ -1,3 +1,6 @@
 [submodule "blog"]
 	path = blog
 	url = https://github.com/iepathos/marlowe_blog.git
+[submodule "objectivity"]
+	path = objectivity
+	url = https://github.com/iepathos/marlowe_objectivity.git
