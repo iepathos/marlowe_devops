@@ -7,3 +7,6 @@
 [submodule "chrome"]
 	path = chrome
 	url = https://github.com/iepathos/marlowe_chrome.git
+[submodule "usent"]
+	path = usent
+	url = https://github.com/iepathos/marlowe_usent.git
