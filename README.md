@@ -6,11 +6,11 @@ Project Marlowe is an open source web service and accompanying extensions and ap
 
 + objectivity uses Python TextBlob to estimate an objectivity score from a NaiveBayes network trained on movie reviews.
 
-+ usent uses a dictionary approach from []() trained on an array of sources.
++ usent classifies subjectivity using polarity lexicons [github.com/nik0spapp/usent](https://github.com/nik0spapp/usent) trained on an array of sources.
 
-+ chrome is the chrome extension built for Marlowe.
++ chrome is the Google Chrome extension built for Marlowe.
 
-+ blog contains blog drafts for the building and development of Project Marlowe.
++ blog contains blog posts for the building and development of Project Marlowe.
 
 # Dev Setup
 
