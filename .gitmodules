@@ -10,3 +10,6 @@
 [submodule "usent"]
 	path = usent
 	url = https://github.com/iepathos/marlowe_usent.git
+[submodule "firefox"]
+	path = firefox
+	url = https://github.com/iepathos/marlowe_firefox.git
