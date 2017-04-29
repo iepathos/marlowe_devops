@@ -19,5 +19,5 @@ Project Marlowe is an open source web service and accompanying extensions and ap
 ````shell
 git clone https://github.com/iepathos/marlowe_devops
 cd marlowe_devops
-git submodule update
+git submodule update --init --recursive
 ````
