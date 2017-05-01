@@ -1,6 +1,6 @@
 # Project Marlowe
 
-Project Marlowe is an open source web service and accompanying extensions and applications for determining the objectivity of text.  Marlowe uses an ensemble approach to determining the relative objectivity of text given to it.
+Project Marlowe is an open source web service and accompanying extensions and applications for determining the objectivity of text.  Marlowe uses an ensemble approach to determine the relative objectivity of text given to it.
 
 # Components
 
