@@ -13,3 +13,6 @@
 [submodule "firefox"]
 	path = firefox
 	url = https://github.com/iepathos/marlowe_firefox.git
+[submodule "dataset"]
+	path = dataset
+	url = https://github.com/iepathos/marlowe_dataset
