@@ -16,3 +16,6 @@
 [submodule "dataset"]
 	path = dataset
 	url = https://github.com/iepathos/marlowe_dataset
+[submodule "redobject"]
+	path = redobject
+	url = https://github.com/iepathos/redobject.git
